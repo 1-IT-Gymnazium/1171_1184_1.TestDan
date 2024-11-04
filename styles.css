@@ -1,0 +1,43 @@
+
+body{
+    background-image: url("bg.jpeg");
+}
+.menu{
+    margin-top: 24px;
+    padding-bottom: 24px;
+    margin-left: 270px;
+    margin-right: 270px;
+    background-color: #9E9494;
+    padding: 24px;
+}
+h1{
+    font-size: 48px;
+    margin-top: 0px;  
+}
+h1,p,h2{
+    text-align: center;
+    font-family: 'Roboto';
+    margin-bottom: 24px;
+    color: #FFFFFF;
+}
+.description{
+    font-size: 24px;
+    margin-bottom: 40px;
+}
+h2{
+    font-size: 38px;
+    margin-bottom: 24px;
+}
+.polozka{
+    text-align: left;
+    width: 65%;
+}
+.cena{
+    width: 35%;
+    text-align: right;
+}
+.item p{
+    display: inline-block;
+    font-size: 24px;
+    margin-bottom: 32px;
+}
